@@ -5,3 +5,6 @@ Od dwóch lat pracuję już z testami manualnymi. W pewnym momencie doszedłem d
 Moim celem jest uzyskanie pierwszego doświadczenia z testami automatycznymi oraz potencjalnej możliwości wykorzystania nowo nabytych umiejętności w pracy
 
 Kuba
+
+# Subtask: Ocena z purpurowego egzaminu
+8 na 15 pkt
